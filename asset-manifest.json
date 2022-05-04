@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CatFriends/static/css/main.eea437eb.css",
+    "main.js": "/CatFriends/static/js/main.551c19b3.js",
+    "static/js/787.d3befce1.chunk.js": "/CatFriends/static/js/787.d3befce1.chunk.js",
+    "static/media/Kittens Silhouette Font.otf": "/CatFriends/static/media/Kittens Silhouette Font.0825ebee6f05720639db.otf",
+    "index.html": "/CatFriends/index.html",
+    "main.eea437eb.css.map": "/CatFriends/static/css/main.eea437eb.css.map",
+    "main.551c19b3.js.map": "/CatFriends/static/js/main.551c19b3.js.map",
+    "787.d3befce1.chunk.js.map": "/CatFriends/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea437eb.css",
+    "static/js/main.551c19b3.js"
+  ]
+}

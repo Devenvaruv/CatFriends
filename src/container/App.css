@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Kittens Silhouette Font';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Kittens Silhouette Font'), url('Kittens Silhouette Font.otf') format('OpenType');
+}
+
+
+
+h1 {
+	font-family: 'Kittens Silhouette Font';
+	font-size: 60px;
+	color: #AA6439;
+	
+}
